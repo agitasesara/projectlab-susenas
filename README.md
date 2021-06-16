@@ -5,7 +5,7 @@ Team 3 Members:
 3. Fransiska Citra
 
 # Project Management
-You can see the project progress update here:https://www.notion.so/agitasesara/Project-Lab-SUSENAS-71902232b7674f679ce3db66ba234006
+You can see the project progress update here: https://www.notion.so/agitasesara/Project-Lab-SUSENAS-71902232b7674f679ce3db66ba234006
 
 # Introduction
 In this analysis, we would like to identify what variables has an impact to income. As part of descriptive analysis, we can also drill down on how people from different level of income behave in terms of their spending and/or consumption.
