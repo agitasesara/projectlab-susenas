@@ -21,7 +21,7 @@ The current hypothesis is that the following variables might have an impact to i
 # Current Progress
 
 ## Exploration Dashboard
-To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. This dashboard should not be treated as the final output. Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
+To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. **This dashboard should not be treated as the final output.** Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
 
 # Current Blocker
 
