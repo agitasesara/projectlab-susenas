@@ -5,7 +5,15 @@ Team 3 Members:
 3. Fransiska Citra
 
 # Project Management
-You can see the project progress update here.
+You can see the project progress update here:https://www.notion.so/agitasesara/Project-Lab-SUSENAS-71902232b7674f679ce3db66ba234006
 
 # Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this analysis, we would like to identify what variables has an impact to income. As part of descriptive analysis, we can also drill down on how people from different level of income behave in terms of their spending and/or consumption.
+
+## Hypothesis (Work In Progress)
+The current hypothesis is that the following variables might have an impact to income on an individual level.
+
+- *Level of education.* As previously mentioned, higher level of education might increase the likelihood of people to get a higher income level.
+- *Region they reside in.* Different regions might have different level of minimum wage, which might have an impact of level of income.
+- *Age.* Age might infer level of experience. Hopefully, we would be able to see if there is indeed any age discrimination in the work force.
+- *Gender.* Hopefully, we would be able to see if there is indeed any sex discrimination in the work force, and any pay gap.
