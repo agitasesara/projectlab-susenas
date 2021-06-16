@@ -19,8 +19,21 @@ The current hypothesis is that the following variables might have an impact to i
 - *Gender.* Hopefully, we would be able to see if there is indeed any sex discrimination in the work force, and any pay gap.
 
 # Current Progress
+We are currently still in **Iteration 1** where each member do their own data preparation, exploration, exploratory data analysis, and data visualizations within jupyter notebook. By Sunday, 20 June 2021, we wil regroup and discuss / plan for **Iteration 2**, where we will finalize the analysis and work towards building a final report and dashboard
 
-## Exploration Dashboard
+In **Iteration 3**, we will attempt to do modeling. Our current plan, and based on feedback from the mentors, we will try the following:
+- Mincer Earning Function and Fixed Effect Model.
+- GLM: Hierarchical Linear Regression
+
+Literature review for our modeling approach can be seen here: https://www.notion.so/agitasesara/Agita-Iteration-3-Modeling-Attempt-e9b5d14193fd4281952beb1baf57a2fd
+
+## Iteration 1
+
+### Agita's Attempt
+My attempt of Iteration 1 is thoroughly explained here: https://www.notion.so/agitasesara/Agita-Iteration-1-Description-and-Results-529dbcb68bef4963b652bdfc2d814737.
+The jupyter notebook has also been uploaded to main branch.
+
+#### Exploration Dashboard
 To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. **This dashboard should not be treated as the final output.** Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
 
 # Current Blocker
