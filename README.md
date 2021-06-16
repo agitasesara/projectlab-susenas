@@ -18,5 +18,12 @@ The current hypothesis is that the following variables might have an impact to i
 - *Age.* Age might infer level of experience. Hopefully, we would be able to see if there is indeed any age discrimination in the work force.
 - *Gender.* Hopefully, we would be able to see if there is indeed any sex discrimination in the work force, and any pay gap.
 
-# Exploration Dashboard
+# Current Progress
+
+## Exploration Dashboard
 To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. This dashboard should not be treated as the final output. Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
+
+# Current Blocker
+
+## I DONT UNDERSTAND HOW TO USE GITHUB LOL
+I think I mistakenly created a new branch to start a pull request (???) I dont even know what this means and I cant delete it :(
