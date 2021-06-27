@@ -1,0 +1,498 @@
+bps_2009,Label,Label_edit,label_final,region_type,provinsi,pulau
+1101,01. Simeulue,simeulue,simeulue,kabupaten,aceh,sumatera
+1102,02. Aceh Singkil,aceh singkil,aceh singkil,kabupaten,aceh,sumatera
+1103,03. Aceh Selatan,aceh selatan,aceh selatan,kabupaten,aceh,sumatera
+1104,04. Aceh Tenggara,aceh tenggara,aceh tenggara,kabupaten,aceh,sumatera
+1105,05. Aceh Timur,aceh timur,aceh timur,kabupaten,aceh,sumatera
+1106,06. Aceh Tengah,aceh tengah,aceh tengah,kabupaten,aceh,sumatera
+1107,07. Aceh Barat,aceh barat,aceh barat,kabupaten,aceh,sumatera
+1108,08. Aceh Besar,aceh besar,aceh besar,kabupaten,aceh,sumatera
+1109,09. Pidie,pidie,pidie,kabupaten,aceh,sumatera
+1110,10. Bireuen,bireuen,bireuen,kabupaten,aceh,sumatera
+1111,11. Aceh Utara,aceh utara,aceh utara,kabupaten,aceh,sumatera
+1112,12. Aceh Barat Daya,aceh barat daya,aceh barat daya,kabupaten,aceh,sumatera
+1113,13. Gayo Lues,gayo lues,gayo lues,kabupaten,aceh,sumatera
+1114,14. Aceh Tamiang,aceh tamiang,aceh tamiang,kabupaten,aceh,sumatera
+1115,15. Nagan Raya,nagan raya,nagan raya,kabupaten,aceh,sumatera
+1116,16. Aceh Jaya,aceh jaya,aceh jaya,kabupaten,aceh,sumatera
+1117,17. Bener Meriah,bener meriah,bener meriah,kabupaten,aceh,sumatera
+1118,18. Pidie Jaya,pidie jaya,pidie jaya,kabupaten,aceh,sumatera
+1171,71. Banda Aceh,banda aceh,banda aceh,kota,aceh,sumatera
+1172,72. Sabang,sabang,sabang,kota,aceh,sumatera
+1173,73. Langsa,langsa,langsa,kota,aceh,sumatera
+1174,74. Lhokseumawe,lhokseumawe,lhokseumawe,kota,aceh,sumatera
+1175,75. Subulussalam,subulussalam,subulussalam,kota,aceh,sumatera
+1201,01. Nias,nias,nias,kabupaten,sumatera utara,sumatera
+1202,02. Mandailing Natal,mandailing natal,mandailing natal,kabupaten,sumatera utara,sumatera
+1203,03. Tapanuli Selatan,tapanuli selatan,tapanuli selatan,kabupaten,sumatera utara,sumatera
+1204,04. Tapanuli Tengah,tapanuli tengah,tapanuli tengah,kabupaten,sumatera utara,sumatera
+1205,05. Tapanuli Utara,tapanuli utara,tapanuli utara,kabupaten,sumatera utara,sumatera
+1206,06. Toba Samosir,toba samosir,toba samosir,kabupaten,sumatera utara,sumatera
+1207,07. Labuhan Batu,labuhan batu,labuhan batu,kabupaten,sumatera utara,sumatera
+1208,08. Asahan,asahan,asahan,kabupaten,sumatera utara,sumatera
+1209,09. Simalungun,simalungun,simalungun,kabupaten,sumatera utara,sumatera
+1210,10. Dairi,dairi,dairi,kabupaten,sumatera utara,sumatera
+1211,11. Karo,karo,karo,kabupaten,sumatera utara,sumatera
+1212,12. Deli Serdang,deli serdang,deli serdang,kabupaten,sumatera utara,sumatera
+1213,13. Langkat,langkat,langkat,kabupaten,sumatera utara,sumatera
+1214,14. Nias Selatan,nias selatan,nias selatan,kabupaten,sumatera utara,sumatera
+1215,15. Humbang Hasundutan,humbang hasundutan,humbang hasundutan,kabupaten,sumatera utara,sumatera
+1216,16. Pakpak Bharat,pakpak bharat,pakpak bharat,kabupaten,sumatera utara,sumatera
+1217,17. Samosir,samosir,samosir,kabupaten,sumatera utara,sumatera
+1218,18. Serdang Bedagai,serdang bedagai,serdang bedagai,kabupaten,sumatera utara,sumatera
+1219,19. Batu Bara,batu bara,batu bara,kabupaten,sumatera utara,sumatera
+1220,20. Padang Lawas Utara,padang lawas utara,padang lawas utara,kabupaten,sumatera utara,sumatera
+1221,21. Padang Lawas,padang lawas,padang lawas,kabupaten,sumatera utara,sumatera
+1222,22. Labuhan Batu Selatan,labuhan batu selatan,labuhan batu selatan,kabupaten,sumatera utara,sumatera
+1223,23. Labuhan Batu Utara,labuhan batu utara,labuhan batu utara,kabupaten,sumatera utara,sumatera
+1224,24. Nias Utara,nias utara,nias utara,kabupaten,sumatera utara,sumatera
+1225,25. Nias Barat,nias barat,nias barat,kabupaten,sumatera utara,sumatera
+1271,71. Sibolga,sibolga,sibolga,kota,sumatera utara,sumatera
+1272,72. Tanjung Balai,tanjung balai,tanjung balai,kota,sumatera utara,sumatera
+1273,73. Pematang Siantar,pematang siantar,pematang siantar,kota,sumatera utara,sumatera
+1274,74. Tebing Tinggi,tebing tinggi,tebing tinggi,kota,sumatera utara,sumatera
+1275,75. Medan,medan,medan,kota,sumatera utara,sumatera
+1276,76. Binjai,binjai,binjai,kota,sumatera utara,sumatera
+1277,77. Padangsidimpuan,padangsidimpuan,padangsidimpuan,kota,sumatera utara,sumatera
+1278,78. Gunungsitoli,gunungsitoli,gunungsitoli,kota,sumatera utara,sumatera
+1301,01. Kepulauan Mentawai,kepulauan mentawai,kepulauan mentawai,kabupaten,sumatera barat,sumatera
+1302,02. Pesisir Selatan,pesisir selatan,pesisir selatan,kabupaten,sumatera barat,sumatera
+1303,03. Solok,solok,solok,kabupaten,sumatera barat,sumatera
+1304,04. Sijunjung,sijunjung,sijunjung,kabupaten,sumatera barat,sumatera
+1305,05. Tanah Datar,tanah datar,tanah datar,kabupaten,sumatera barat,sumatera
+1306,06. Padang Pariaman,padang pariaman,padang pariaman,kabupaten,sumatera barat,sumatera
+1307,07. Agam,agam,agam,kabupaten,sumatera barat,sumatera
+1308,08. Lima Puluh Kota,lima puluh kota,lima puluh kota,kabupaten,sumatera barat,sumatera
+1309,09. Pasaman,pasaman,pasaman,kabupaten,sumatera barat,sumatera
+1310,10. Solok Selatan,solok selatan,solok selatan,kabupaten,sumatera barat,sumatera
+1311,11. Dharmasraya,dharmasraya,dharmasraya,kabupaten,sumatera barat,sumatera
+1312,12. Pasaman Barat,pasaman barat,pasaman barat,kabupaten,sumatera barat,sumatera
+1371,71. Padang,padang,padang,kota,sumatera barat,sumatera
+1372,72. Solok,solok,solok,kabupaten,sumatera barat,sumatera
+1373,73. Sawah Lunto,sawah lunto,sawah lunto,kota,sumatera barat,sumatera
+1374,74. Padang Panjang,padang panjang,padang panjang,kota,sumatera barat,sumatera
+1375,75. Bukittinggi,bukittinggi,bukittinggi,kota,sumatera barat,sumatera
+1376,76. Payakumbuh,payakumbuh,payakumbuh,kota,sumatera barat,sumatera
+1377,77. Pariaman,pariaman,pariaman,kota,sumatera barat,sumatera
+1401,01. Kuantan Singingi,kuantan singingi,kuantan singingi,kabupaten,riau,sumatera
+1402,02. Indragiri Hulu,indragiri hulu,indragiri hulu,kabupaten,riau,sumatera
+1403,03. Indragiri Hilir,indragiri hilir,indragiri hilir,kabupaten,riau,sumatera
+1404,04. Pelalawan,pelalawan,pelalawan,kabupaten,riau,sumatera
+1405,05. S I A K,s i a k,siak,kabupaten,riau,sumatera
+1406,06. Kampar,kampar,kampar,kabupaten,riau,sumatera
+1407,07. Rokan Hulu,rokan hulu,rokan hulu,kabupaten,riau,sumatera
+1408,08. Bengkalis,bengkalis,bengkalis,kabupaten,riau,sumatera
+1409,09. Rokan Hilir,rokan hilir,rokan hilir,kabupaten,riau,sumatera
+1410,10. Kepulauan Meranti,kepulauan meranti,kepulauan meranti,kabupaten,riau,sumatera
+1471,71. Pekanbaru,pekanbaru,pekanbaru,kota,riau,sumatera
+1473,73. D U M A I,d u m a i,dumai,kota,riau,sumatera
+1501,01. Kerinci,kerinci,kerinci,kabupaten,jambi,sumatera
+1502,02. Merangin,merangin,merangin,kabupaten,jambi,sumatera
+1503,03. Sarolangun,sarolangun,sarolangun,kabupaten,jambi,sumatera
+1504,04. Batang Hari,batang hari,batang hari,kabupaten,jambi,sumatera
+1505,05. Muaro Jambi,muaro jambi,muaro jambi,kabupaten,jambi,sumatera
+1506,06. Tanjung Jabung Timur,tanjung jabung timur,tanjung jabung timur,kabupaten,jambi,sumatera
+1507,07. Tanjung Jabung Barat,tanjung jabung barat,tanjung jabung barat,kabupaten,jambi,sumatera
+1508,08. Tebo,tebo,tebo,kabupaten,jambi,sumatera
+1509,09. Bungo,bungo,bungo,kabupaten,jambi,sumatera
+1571,71. Jambi,jambi,jambi,kota,jambi,sumatera
+1572,72. Sungai Penuh,sungai penuh,sungai penuh,kota,jambi,sumatera
+1601,01. Ogan Komering Ulu,ogan komering ulu,ogan komering ulu,kabupaten,sumatera selatan,sumatera
+1602,02. Ogan Komering Ilir,ogan komering ilir,ogan komering ilir,kabupaten,sumatera selatan,sumatera
+1603,03. Muara Enim,muara enim,muara enim,kabupaten,sumatera selatan,sumatera
+1604,04. Lahat,lahat,lahat,kabupaten,sumatera selatan,sumatera
+1605,05. Musi Rawas,musi rawas,musi rawas,kabupaten,sumatera selatan,sumatera
+1606,06. Musi Banyuasin,musi banyuasin,musi banyuasin,kabupaten,sumatera selatan,sumatera
+1607,07. Banyu Asin,banyu asin,banyu asin,kabupaten,sumatera selatan,sumatera
+1608,08. Ogan Komering Ulu Selatan,ogan komering ulu selatan,ogan komering ulu selatan,kabupaten,sumatera selatan,sumatera
+1609,09. Ogan Komering Ulu Timur,ogan komering ulu timur,ogan komering ulu timur,kabupaten,sumatera selatan,sumatera
+1610,10. Ogan Ilir,ogan ilir,ogan ilir,kabupaten,sumatera selatan,sumatera
+1611,11. Empat Lawang,empat lawang,empat lawang,kabupaten,sumatera selatan,sumatera
+1671,71. Palembang,palembang,palembang,kota,sumatera selatan,sumatera
+1672,72. Prabumulih,prabumulih,prabumulih,kota,sumatera selatan,sumatera
+1673,73. Pagar Alam,pagar alam,pagar alam,kota,sumatera selatan,sumatera
+1674,74. Lubuklinggau,lubuklinggau,lubuklinggau,kota,sumatera selatan,sumatera
+1701,01. Bengkulu Selatan,bengkulu selatan,bengkulu selatan,kabupaten,bengkulu,sumatera
+1702,02. Rejang Lebong,rejang lebong,rejang lebong,kabupaten,bengkulu,sumatera
+1703,03. Bengkulu Utara,bengkulu utara,bengkulu utara,kabupaten,bengkulu,sumatera
+1704,04. Kaur,kaur,kaur,kabupaten,bengkulu,sumatera
+1705,05. Seluma,seluma,seluma,kabupaten,bengkulu,sumatera
+1706,06. Mukomuko,mukomuko,mukomuko,kabupaten,bengkulu,sumatera
+1707,07. Lebong,lebong,lebong,kabupaten,bengkulu,sumatera
+1708,08. Kepahiang,kepahiang,kepahiang,kabupaten,bengkulu,sumatera
+1709,09. Bengkulu Tengah,bengkulu tengah,bengkulu tengah,kabupaten,bengkulu,sumatera
+1771,71. Bengkulu,bengkulu,bengkulu,kota,bengkulu,sumatera
+1801,01. Lampung Barat,lampung barat,lampung barat,kabupaten,lampung,sumatera
+1802,02. Tanggamus,tanggamus,tanggamus,kabupaten,lampung,sumatera
+1803,03. Lampung Selatan,lampung selatan,lampung selatan,kabupaten,lampung,sumatera
+1804,04. Lampung Timur,lampung timur,lampung timur,kabupaten,lampung,sumatera
+1805,05. Lampung Tengah,lampung tengah,lampung tengah,kabupaten,lampung,sumatera
+1806,06. Lampung Utara,lampung utara,lampung utara,kabupaten,lampung,sumatera
+1807,07. Way Kanan,way kanan,way kanan,kabupaten,lampung,sumatera
+1808,08. Tulangbawang,tulangbawang,tulangbawang,kabupaten,lampung,sumatera
+1809,09. Pesawaran,pesawaran,pesawaran,kabupaten,lampung,sumatera
+1810,10. Pringsewu,pringsewu,pringsewu,kabupaten,lampung,sumatera
+1811,11. Mesuji,mesuji,mesuji,kabupaten,lampung,sumatera
+1812,12. Tulang Bawang Barat,tulang bawang barat,tulang bawang barat,kabupaten,lampung,sumatera
+1871,71. Bandar Lampung,bandar lampung,bandar lampung,kota,lampung,sumatera
+1872,72. Metro,metro,metro,kota,lampung,sumatera
+1901,01. Bangka,bangka,bangka,kabupaten,bangka belitung,sumatera
+1902,02. Belitung,belitung,belitung,kabupaten,bangka belitung,sumatera
+1903,03. Bangka Barat,bangka barat,bangka barat,kabupaten,bangka belitung,sumatera
+1904,04. Bangka Tengah,bangka tengah,bangka tengah,kabupaten,bangka belitung,sumatera
+1905,05. Bangka Selatan,bangka selatan,bangka selatan,kabupaten,bangka belitung,sumatera
+1906,06. Belitung Timur,belitung timur,belitung timur,kabupaten,bangka belitung,sumatera
+1971,71. Pangkal Pinang,pangkal pinang,pangkal pinang,kota,kepulauan bangka belitung,sumatera
+2101,01. Karimun,karimun,karimun,kabupaten,kepulauan riau,sumatera
+2102,02. Bintan,bintan,bintan,kabupaten,kepulauan riau,sumatera
+2103,03. Natuna,natuna,natuna,kabupaten,kepulauan riau,sumatera
+2104,04. Lingga,lingga,lingga,kabupaten,kepulauan riau,sumatera
+2105,05. Kepulauan Anambas,kepulauan anambas,kepulauan anambas,kabupaten,kepulauan riau,sumatera
+2171,71. B A T A M,b a t a m,batam,kota,kepulauan riau,kepulauan riau
+2172,72. Tanjung Pinang,tanjung pinang,tanjung pinang,kota,kepulauan riau,sumatera
+3101,01. Kepulauan Seribu,kepulauan seribu,kepulauan seribu,kabupaten,dki jakarta,jawa
+3171,71. Jakarta Selatan,jakarta selatan,jakarta selatan,kota administrasi,dki jakarta,jawa
+3172,72. Jakarta Timur,jakarta timur,jakarta timur,kota administrasi,dki jakarta,jawa
+3173,73. Jakarta Pusat,jakarta pusat,jakarta pusat,kota administrasi,dki jakarta,jawa
+3174,74. Jakarta Barat,jakarta barat,jakarta barat,kota administrasi,dki jakarta,jawa
+3175,75. Jakarta Utara,jakarta utara,jakarta utara,kota administrasi,dki jakarta,jawa
+3201,01. Bogor,bogor,bogor,kabupaten,jawa barat,jawa
+3202,02. Sukabumi,sukabumi,sukabumi,kabupaten,jawa barat,jawa
+3203,03. Cianjur,cianjur,cianjur,kabupaten,jawa barat,jawa
+3204,04. Bandung,bandung,bandung,kabupaten,jawa barat,jawa
+3205,05. Garut,garut,garut,kabupaten,jawa barat,jawa
+3206,06. Tasikmalaya,tasikmalaya,tasikmalaya,kabupaten,jawa barat,jawa
+3207,07. Ciamis,ciamis,ciamis,kabupaten,jawa barat,jawa
+3208,08. Kuningan,kuningan,kuningan,kabupaten,jawa barat,jawa
+3209,09. Cirebon,cirebon,cirebon,kota,jawa barat,jawa
+3210,10. Majalengka,majalengka,majalengka,kabupaten,jawa barat,jawa
+3211,11. Sumedang,sumedang,sumedang,kabupaten,jawa barat,jawa
+3212,12. Indramayu,indramayu,indramayu,kabupaten,jawa barat,jawa
+3213,13. Subang,subang,subang,kabupaten,jawa barat,jawa
+3214,14. Purwakarta,purwakarta,purwakarta,kabupaten,jawa barat,jawa
+3215,15. Karawang,karawang,karawang,kabupaten,jawa barat,jawa
+3216,16. Bekasi,bekasi,bekasi,kabupaten,jawa barat,jawa
+3217,17. Bandung Barat,bandung barat,bandung barat,kabupaten,jawa barat,jawa
+3271,71. Bogor,bogor,bogor,kabupaten,jawa barat,jawa
+3272,72. Sukabumi,sukabumi,sukabumi,kabupaten,jawa barat,jawa
+3273,73. Bandung,bandung,bandung,kabupaten,jawa barat,jawa
+3274,74. Cirebon,cirebon,cirebon,kota,jawa barat,jawa
+3275,75. Bekasi,bekasi,bekasi,kabupaten,jawa barat,jawa
+3276,76. Depok,depok,depok,kota,jawa barat,jawa
+3277,77. Kota Cimahi,kota cimahi,cimahi,kota,jawa barat,jawa
+3278,78. Kota Tasikmalaya,kota tasikmalaya,tasikmalaya,kota,jawa barat,jawa
+3279,79. Banjar,banjar,banjar,kota,jawa barat,jawa
+3301,01. Cilacap,cilacap,cilacap,kabupaten,jawa tengah,jawa
+3302,02. Banyumas,banyumas,banyumas,kabupaten,jawa tengah,jawa
+3303,03. Purbalingga,purbalingga,purbalingga,kabupaten,jawa tengah,jawa
+3304,04. Banjarnegara,banjarnegara,banjarnegara,kabupaten,jawa tengah,jawa
+3305,05. Kebumen,kebumen,kebumen,kabupaten,jawa tengah,jawa
+3306,06. Purworejo,purworejo,purworejo,kabupaten,jawa tengah,jawa
+3307,07. Wonosobo,wonosobo,wonosobo,kabupaten,jawa tengah,jawa
+3308,08. Magelang,magelang,magelang,kabupaten,jawa tengah,jawa
+3309,09. Boyolali,boyolali,boyolali,kabupaten,jawa tengah,jawa
+3310,10. Klaten,klaten,klaten,kabupaten,jawa tengah,jawa
+3311,11. Sukoharjo,sukoharjo,sukoharjo,kabupaten,jawa tengah,jawa
+3312,12. Wonogiri,wonogiri,wonogiri,kabupaten,jawa tengah,jawa
+3313,13. Karanganyar,karanganyar,karanganyar,kabupaten,jawa tengah,jawa
+3314,14. Sragen,sragen,sragen,kabupaten,jawa tengah,jawa
+3315,15. Grobogan,grobogan,grobogan,kabupaten,jawa tengah,jawa
+3316,16. Blora,blora,blora,kabupaten,jawa tengah,jawa
+3317,17. Rembang,rembang,rembang,kabupaten,jawa tengah,jawa
+3318,18. Pati,pati,pati,kabupaten,jawa tengah,jawa
+3319,19. Kudus,kudus,kudus,kabupaten,jawa tengah,jawa
+3320,20. Jepara,jepara,jepara,kabupaten,jawa tengah,jawa
+3321,21. Demak,demak,demak,kabupaten,jawa tengah,jawa
+3322,22. Semarang,semarang,semarang,kabupaten,jawa tengah,jawa
+3323,23. Temanggung,temanggung,temanggung,kabupaten,jawa tengah,jawa
+3324,24. Kendal,kendal,kendal,kabupaten,jawa tengah,jawa
+3325,25. Batang,batang,batang,kabupaten,jawa tengah,jawa
+3326,26. Pekalongan,pekalongan,pekalongan,kabupaten,jawa tengah,jawa
+3327,27. Pemalang,pemalang,pemalang,kabupaten,jawa tengah,jawa
+3328,28. Tegal,tegal,tegal,kabupaten,jawa tengah,jawa
+3329,29. Brebes,brebes,brebes,kabupaten,jawa tengah,jawa
+3371,71. Magelang,magelang,magelang,kabupaten,jawa tengah,jawa
+3372,72. Surakarta,surakarta,surakarta,kota,jawa tengah,jawa
+3373,73. Salatiga,salatiga,salatiga,kota,jawa tengah,jawa
+3374,74. Semarang,semarang,semarang,kabupaten,jawa tengah,jawa
+3375,75. Pekalongan,pekalongan,pekalongan,kabupaten,jawa tengah,jawa
+3376,76. Tegal,tegal,tegal,kabupaten,jawa tengah,jawa
+3401,01. Kulon Progo,kulon progo,kulon progo,kabupaten,di yogyakarta,jawa
+3402,02. Bantul,bantul,bantul,kabupaten,di yogyakarta,jawa
+3403,03. Gunung Kidul,gunung kidul,gunung kidul,kabupaten,di yogyakarta,jawa
+3404,04. Sleman,sleman,sleman,kabupaten,di yogyakarta,jawa
+3471,71. Yogyakarta,yogyakarta,yogyakarta,kota,di yogyakarta,jawa
+3501,01. Pacitan,pacitan,pacitan,kabupaten,jawa timur,jawa
+3502,02. Ponorogo,ponorogo,ponorogo,kabupaten,jawa timur,jawa
+3503,03. Trenggalek,trenggalek,trenggalek,kabupaten,jawa timur,jawa
+3504,04. Tulungagung,tulungagung,tulungagung,kabupaten,jawa timur,jawa
+3505,05. Blitar,blitar,blitar,kabupaten,jawa timur,jawa
+3506,06. Kediri,kediri,kediri,kabupaten,jawa timur,jawa
+3507,07. Malang,malang,malang,kabupaten,jawa timur,jawa
+3508,08. Lumajang,lumajang,lumajang,kabupaten,jawa timur,jawa
+3509,09. Jember,jember,jember,kabupaten,jawa timur,jawa
+3510,10. Banyuwangi,banyuwangi,banyuwangi,kabupaten,jawa timur,jawa
+3511,11. Bondowoso,bondowoso,bondowoso,kabupaten,jawa timur,jawa
+3512,12. Situbondo,situbondo,situbondo,kabupaten,jawa timur,jawa
+3513,13. Probolinggo,probolinggo,probolinggo,kabupaten,jawa timur,jawa
+3514,14. Pasuruan,pasuruan,pasuruan,kota,jawa timur,jawa
+3515,15. Sidoarjo,sidoarjo,sidoarjo,kabupaten,jawa timur,jawa
+3516,16. Mojokerto,mojokerto,mojokerto,kabupaten,jawa timur,jawa
+3517,17. Jombang,jombang,jombang,kabupaten,jawa timur,jawa
+3518,18. Nganjuk,nganjuk,nganjuk,kabupaten,jawa timur,jawa
+3519,19. Madiun,madiun,madiun,kabupaten,jawa timur,jawa
+3520,20. Magetan,magetan,magetan,kabupaten,jawa timur,jawa
+3521,21. Ngawi,ngawi,ngawi,kabupaten,jawa timur,jawa
+3522,22. Bojonegoro,bojonegoro,bojonegoro,kabupaten,jawa timur,jawa
+3523,23. Tuban,tuban,tuban,kabupaten,jawa timur,jawa
+3524,24. Lamongan,lamongan,lamongan,kabupaten,jawa timur,jawa
+3525,25. Gresik,gresik,gresik,kabupaten,jawa timur,jawa
+3526,26. Bangkalan,bangkalan,bangkalan,kabupaten,jawa timur,jawa
+3527,27. Sampang,sampang,sampang,kabupaten,jawa timur,jawa
+3528,28. Pamekasan,pamekasan,pamekasan,kabupaten,jawa timur,jawa
+3529,29. Sumenep,sumenep,sumenep,kabupaten,jawa timur,jawa
+3571,71. Kediri,kediri,kediri,kabupaten,jawa timur,jawa
+3572,72. Blitar,blitar,blitar,kabupaten,jawa timur,jawa
+3573,73. Malang,malang,malang,kabupaten,jawa timur,jawa
+3574,74. Probolinggo,probolinggo,probolinggo,kabupaten,jawa timur,jawa
+3575,75. Pasuruan,pasuruan,pasuruan,kota,jawa timur,jawa
+3576,76. Kota Mojokerto,kota mojokerto,mojokerto,kota,jawa timur,jawa
+3577,77. Kota Madiun,kota madiun,madiun,kota,jawa timur,jawa
+3578,78. Surabaya,surabaya,surabaya,kota,jawa timur,jawa
+3579,79. Batu,batu,batu,kota,jawa timur,jawa
+3601,01. Pandeglang,pandeglang,pandeglang,kabupaten,banten,jawa
+3602,02. Lebak,lebak,lebak,kabupaten,banten,jawa
+3603,03. Tangerang,tangerang,tangerang,kota,banten,jawa
+3604,04. Serang,serang,serang,kabupaten,banten,jawa
+3671,71. Tangerang,tangerang,tangerang,kota,banten,jawa
+3672,72. Cilegon,cilegon,cilegon,kota,banten,jawa
+3673,73. Serang,serang,serang,kabupaten,banten,jawa
+3674,74. Tangerang Selatan,tangerang selatan,tangerang selatan,kota,banten,jawa
+5101,01. Jembrana,jembrana,jembrana,kabupaten,bali,bali
+5102,02. Tabanan,tabanan,tabanan,kabupaten,bali,bali
+5103,03. Badung,badung,badung,kabupaten,bali,bali
+5104,04. Gianyar,gianyar,gianyar,kabupaten,bali,bali
+5105,05. Klungkung,klungkung,klungkung,kabupaten,bali,bali
+5106,06. Bangli,bangli,bangli,kabupaten,bali,bali
+5107,07. Karang Asem,karang asem,karang asem,kabupaten,bali,bali
+5108,08. Buleleng,buleleng,buleleng,kabupaten,bali,bali
+5171,71. Denpasar,denpasar,denpasar,kota,bali,bali
+5201,01. Lombok Barat,lombok barat,lombok barat,kabupaten,nusa tenggara barat,nusa tenggara
+5202,02. Lombok Tengah,lombok tengah,lombok tengah,kabupaten,nusa tenggara barat,nusa tenggara
+5203,03. Lombok Timur,lombok timur,lombok timur,kabupaten,nusa tenggara barat,nusa tenggara
+5204,04. Sumbawa,sumbawa,sumbawa,kepulauan,nusa tenggara barat,nusa tenggara
+5205,05. Dompu,dompu,dompu,kabupaten,nusa tenggara barat,nusa tenggara
+5206,06. Bima,bima,bima,kota,nusa tenggara barat,nusa tenggara
+5207,07. Sumbawa Barat,sumbawa barat,sumbawa barat,kabupaten,nusa tenggara barat,nusa tenggara
+5208,08. Lombok Utara,lombok utara,lombok utara,kabupaten,nusa tenggara barat,nusa tenggara
+5271,71. Mataram,mataram,mataram,kota,nusa tenggara barat,nusa tenggara
+5272,72. Bima,bima,bima,kota,nusa tenggara barat,nusa tenggara
+5301,01. Sumba Barat,sumba barat,sumba barat,kabupaten,nusa tenggara timur,nusa tenggara
+5302,02. Sumba Timur,sumba timur,sumba timur,kabupaten,nusa tenggara timur,nusa tenggara
+5303,03. Kupang,kupang,kupang,kabupaten,nusa tenggara timur,nusa tenggara
+5304,04. Timor Tengah Selatan,timor tengah selatan,timor tengah selatan,kabupaten,nusa tenggara timur,nusa tenggara
+5305,05. Timor Tengah Utara,timor tengah utara,timor tengah utara,kabupaten,nusa tenggara timur,nusa tenggara
+5306,06. Belu,belu,belu,kabupaten,nusa tenggara timur,nusa tenggara
+5307,07. Alor,alor,alor,kabupaten,nusa tenggara timur,nusa tenggara
+5308,08. Lembata,lembata,lembata,kabupaten,nusa tenggara timur,nusa tenggara
+5309,09. Flores Timur,flores timur,flores timur,kabupaten,nusa tenggara timur,nusa tenggara
+5310,10. Sikka,sikka,sikka,kabupaten,nusa tenggara timur,nusa tenggara
+5311,11. Ende,ende,ende,kabupaten,nusa tenggara timur,nusa tenggara
+5312,12. Ngada,ngada,ngada,kabupaten,nusa tenggara timur,nusa tenggara
+5313,13. Manggarai,manggarai,manggarai,kabupaten,nusa tenggara timur,nusa tenggara
+5314,14. Rote Ndao,rote ndao,rote ndao,kabupaten,nusa tenggara timur,nusa tenggara
+5315,15. Manggarai Barat,manggarai barat,manggarai barat,kabupaten,nusa tenggara timur,nusa tenggara
+5316,16. Sumba Tengah,sumba tengah,sumba tengah,kabupaten,nusa tenggara timur,nusa tenggara
+5317,17. Sumba Barat Daya,sumba barat daya,sumba barat daya,kabupaten,nusa tenggara timur,nusa tenggara
+5318,18. Nagekeo,nagekeo,nagekeo,kabupaten,nusa tenggara timur,nusa tenggara
+5319,19. Manggarai Timur,manggarai timur,manggarai timur,kabupaten,nusa tenggara timur,nusa tenggara
+5320,20. Sabu Raijua,sabu raijua,sabu raijua,kabupaten,nusa tenggara timur,nusa tenggara
+5371,71. Kupang,kupang,kupang,kabupaten,nusa tenggara timur,nusa tenggara
+6101,01. Sambas,sambas,sambas,kabupaten,kalimantan barat,kalimantan
+6102,02. Bengkayang,bengkayang,bengkayang,kabupaten,kalimantan barat,kalimantan
+6103,03. Landak,landak,landak,kabupaten,kalimantan barat,kalimantan
+6104,04. Pontianak,pontianak,pontianak,kabupaten,kalimantan barat,kalimantan
+6105,05. Sanggau,sanggau,sanggau,kabupaten,kalimantan barat,kalimantan
+6106,06. Ketapang,ketapang,ketapang,keuskupan,kalimantan barat,kalimantan
+6107,07. Sintang,sintang,sintang,kabupaten,kalimantan barat,kalimantan
+6108,08. Kapuas Hulu,kapuas hulu,kapuas hulu,kabupaten,kalimantan barat,kalimantan
+6109,09. Sekadau,sekadau,sekadau,kabupaten,kalimantan barat,kalimantan
+6110,10. Melawi,melawi,melawi,kabupaten,kalimantan barat,kalimantan
+6111,11. Kayong Utara,kayong utara,kayong utara,kabupaten,kalimantan barat,kalimantan
+6112,12. Kubu Raya,kubu raya,kubu raya,kabupaten,kalimantan barat,kalimantan
+6171,71. Pontianak,pontianak,pontianak,kabupaten,kalimantan barat,kalimantan
+6172,72. Singkawang,singkawang,singkawang,kota,kalimantan barat,kalimantan
+6201,01. Kotawaringin Barat,kotawaringin barat,kotawaringin barat,kabupaten,kalimantan tengah,kalimantan
+6202,02. Kotawaringin Timur,kotawaringin timur,kotawaringin timur,kabupaten,kalimantan tengah,kalimantan
+6203,03. Kapuas,kapuas,kapuas,kabupaten,kalimantan tengah,kalimantan
+6204,04. Barito Selatan,barito selatan,barito selatan,kabupaten,kalimantan tengah,kalimantan
+6205,05. Barito Utara,barito utara,barito utara,kabupaten,kalimantan tengah,kalimantan
+6206,06. Sukamara,sukamara,sukamara,kabupaten,kalimantan tengah,kalimantan
+6207,07. Lamandau,lamandau,lamandau,kabupaten,kalimantan tengah,kalimantan
+6208,08. Seruyan,seruyan,seruyan,kabupaten,kalimantan tengah,kalimantan
+6209,09. Katingan,katingan,katingan,kabupaten,kalimantan tengah,kalimantan
+6210,10. Pulang Pisau,pulang pisau,pulang pisau,kabupaten,kalimantan tengah,kalimantan
+6211,11. Gunung Mas,gunung mas,gunung mas,kabupaten,kalimantan tengah,kalimantan
+6212,12. Barito Timur,barito timur,barito timur,kabupaten,kalimantan tengah,kalimantan
+6213,13. Murung Raya,murung raya,murung raya,kabupaten,kalimantan tengah,kalimantan
+6271,71. Palangka Raya,palangka raya,palangka raya,kota,kalimantan tengah,kalimantan
+6301,01. Tanah Laut,tanah laut,tanah laut,kabupaten,kalimantan selatan,kalimantan
+6302,02. Kota Baru,kota baru,kota baru,kabupaten,kalimantan selatan,kalimantan
+6303,03. Banjar,banjar,banjar,kota,jawa barat,jawa
+6304,04. Barito Kuala,barito kuala,barito kuala,kabupaten,kalimantan selatan,kalimantan
+6305,05. Tapin,tapin,tapin,kabupaten,kalimantan selatan,kalimantan
+6306,06. Hulu Sungai Selatan,hulu sungai selatan,hulu sungai selatan,kabupaten,kalimantan selatan,kalimantan
+6307,07. Hulu Sungai Tengah,hulu sungai tengah,hulu sungai tengah,kabupaten,kalimantan selatan,kalimantan
+6308,08. Hulu Sungai Utara,hulu sungai utara,hulu sungai utara,kabupaten,kalimantan selatan,kalimantan
+6309,09. Tabalong,tabalong,tabalong,kabupaten,kalimantan selatan,kalimantan
+6310,10. Tanah Bumbu,tanah bumbu,tanah bumbu,kabupaten,kalimantan selatan,kalimantan
+6311,11. Balangan,balangan,balangan,kabupaten,kalimantan selatan,kalimantan
+6371,71. Banjarmasin,banjarmasin,banjarmasin,kota,kalimantan selatan,kalimantan
+6372,72. Banjar Baru,banjar baru,banjar baru,kota,kalimantan selatan,kalimantan
+6401,01. Paser,paser,paser,kabupaten,kalimantan timur,kalimantan
+6402,02. Kutai Barat,kutai barat,kutai barat,kabupaten,kalimantan timur,kalimantan
+6403,03. Kutai Kartanegara,kutai kartanegara,kutai kartanegara,kabupaten,kalimantan timur,kalimantan
+6404,04. Kutai Timur,kutai timur,kutai timur,kabupaten,kalimantan timur,kalimantan
+6405,05. Berau,berau,berau,kabupaten,kalimantan timur,kalimantan
+6406,06. Malinau,malinau,malinau,kabupaten,kalimantan utara,kalimantan
+6407,07. Bulungan,bulungan,bulungan,kabupaten,kalimantan utara,kalimantan
+6408,08. Nunukan,nunukan,nunukan,kabupaten,kalimantan utara,kalimantan
+6409,09. Penajam Paser Utara,penajam paser utara,penajam paser utara,kabupaten,kalimantan timur,kalimantan
+6410,10. Tana Tidung,tana tidung,tana tidung,kabupaten,kalimantan utara,kalimantan
+6471,71. Balikpapan,balikpapan,balikpapan,kota,kalimantan timur,kalimantan
+6472,72. Samarinda,samarinda,samarinda,kota,kalimantan timur,kalimantan
+6473,73. Tarakan,tarakan,tarakan,kota,kalimantan utara,kalimantan
+6474,74. Bontang,bontang,bontang,kota,kalimantan timur,kalimantan
+7101,01. Bolaang Mongondow,bolaang mongondow,bolaang mongondow,kabupaten,sulawesi utara,sulawesi
+7102,02. Minahasa,minahasa,minahasa,kabupaten,sulawesi utara,sulawesi
+7103,03. Kepulauan Sangihe,kepulauan sangihe,kepulauan sangihe,kabupaten,sulawesi utara,sulawesi
+7104,04. Kepulauan Talaud,kepulauan talaud,kepulauan talaud,kabupaten,sulawesi utara,sulawesi
+7105,05. Minahasa Selatan,minahasa selatan,minahasa selatan,kabupaten,sulawesi utara,sulawesi
+7106,06. Minahasa Utara,minahasa utara,minahasa utara,kabupaten,sulawesi utara,sulawesi
+7107,07. Bolaang Mongondow Utara,bolaang mongondow utara,bolaang mongondow utara,kabupaten,sulawesi utara,sulawesi
+7108,08. Siau Tagulandang Biaro,siau tagulandang biaro,siau tagulandang biaro,kabupaten,sulawesi utara,sulawesi
+7109,09. Minahasa Tenggara,minahasa tenggara,minahasa tenggara,kabupaten,sulawesi utara,sulawesi
+7110,10. Bolaang Mongondow Selatan,bolaang mongondow selatan,bolaang mongondow selatan,kabupaten,sulawesi utara,sulawesi
+7111,11. Bolaang Mongondow Timur,bolaang mongondow timur,bolaang mongondow timur,kabupaten,sulawesi utara,sulawesi
+7171,71. Manado,manado,manado,kota,sulawesi utara,sulawesi
+7172,72. Bitung,bitung,bitung,kota,sulawesi utara,sulawesi
+7173,73. Tomohon,tomohon,tomohon,kota,sulawesi utara,sulawesi
+7174,74. Kotamobagu,kotamobagu,kotamobagu,kota,sulawesi utara,sulawesi
+7201,01. Banggai Kepulauan,banggai kepulauan,banggai kepulauan,kabupaten,sulawesi tengah,sulawesi
+7202,02. Banggai,banggai,banggai,kabupaten,sulawesi tengah,sulawesi
+7203,03. Morowali,morowali,morowali,kabupaten,sulawesi tengah,sulawesi
+7204,04. Poso,poso,poso,kabupaten,sulawesi tengah,sulawesi
+7205,05. Donggala,donggala,donggala,kabupaten,sulawesi tengah,sulawesi
+7206,06. Toli-Toli,toli-toli,toli-toli,kabupaten,sulawesi tengah,sulawesi
+7207,07. Buol,buol,buol,kabupaten,sulawesi tengah,sulawesi
+7208,08. Parigi Moutong,parigi moutong,parigi moutong,kabupaten,sulawesi tengah,sulawesi
+7209,09. Tojo Una-Una,tojo una-una,tojo una-una,kabupaten,sulawesi tengah,sulawesi
+7210,10. Sigi,sigi,sigi,kabupaten,sulawesi tengah,sulawesi
+7271,71. Palu,palu,palu,kota,sulawesi tengah,sulawesi
+7301,01. Selayar,selayar,selayar,kabupaten,sulawesi selatan,sulawesi
+7302,02. Bulukumba,bulukumba,bulukumba,kabupaten,sulawesi selatan,sulawesi
+7303,03. Bantaeng,bantaeng,bantaeng,kabupaten,sulawesi selatan,sulawesi
+7304,04. Jeneponto,jeneponto,jeneponto,kabupaten,sulawesi selatan,sulawesi
+7305,05. Takalar,takalar,takalar,kabupaten,sulawesi selatan,sulawesi
+7306,06. Gowa,gowa,gowa,kabupaten,sulawesi selatan,sulawesi
+7307,07. Sinjai,sinjai,sinjai,kabupaten,sulawesi selatan,sulawesi
+7308,08. Maros,maros,maros,kabupaten,sulawesi selatan,sulawesi
+7309,09. Pangkajene Dan Kepulauan,pangkajene dan kepulauan,pangkajene dan kepulauan,kabupaten,sulawesi selatan,sulawesi
+7310,10. Barru,barru,barru,kabupaten,sulawesi selatan,sulawesi
+7311,11. Bone,bone,bone,kabupaten,sulawesi selatan,sulawesi
+7312,12. Soppeng,soppeng,soppeng,kabupaten,sulawesi selatan,sulawesi
+7313,13. Wajo,wajo,wajo,kabupaten,sulawesi selatan,sulawesi
+7314,14. Sidenreng Rappang,sidenreng rappang,sidenreng rappang,kabupaten,sulawesi selatan,sulawesi
+7315,15. Pinrang,pinrang,pinrang,kabupaten,sulawesi selatan,sulawesi
+7316,16. Enrekang,enrekang,enrekang,kabupaten,sulawesi selatan,sulawesi
+7317,17. Luwu,luwu,luwu,kabupaten,sulawesi selatan,sulawesi
+7318,18. Tana Toraja,tana toraja,tana toraja,kabupaten,sulawesi selatan,sulawesi
+7322,22. Luwu Utara,luwu utara,luwu utara,kabupaten,sulawesi selatan,sulawesi
+7325,25. Luwu Timur,luwu timur,luwu timur,kabupaten,sulawesi selatan,sulawesi
+7326,26. Toraja Utara,toraja utara,toraja utara,kabupaten,sulawesi selatan,sulawesi
+7371,71. Makassar,makassar,makassar,kota,sulawesi selatan,sulawesi
+7372,72. Pare-Pare,pare-pare,pare-pare,kabupaten,sulawesi selatan,sulawesi
+7373,73. Palopo,palopo,palopo,kota,sulawesi selatan,sulawesi
+7401,01. Buton,buton,buton,kabupaten,sulawesi tenggara,sulawesi
+7402,02. Muna,muna,muna,kabupaten,sulawesi tenggara,sulawesi
+7403,03. Konawe,konawe,konawe,kabupaten,sulawesi tenggara,sulawesi
+7404,04. Kolaka,kolaka,kolaka,kabupaten,sulawesi tenggara,sulawesi
+7405,05. Konawe Selatan,konawe selatan,konawe selatan,kabupaten,sulawesi tenggara,sulawesi
+7406,06. Bombana,bombana,bombana,kabupaten,sulawesi tenggara,sulawesi
+7407,07. Wakatobi,wakatobi,wakatobi,kabupaten,sulawesi tenggara,sulawesi
+7408,08. Kolaka Utara,kolaka utara,kolaka utara,kabupaten,sulawesi tenggara,sulawesi
+7409,09. Buton Utara,buton utara,buton utara,kabupaten,sulawesi tenggara,sulawesi
+7410,10. Konawe Utara,konawe utara,konawe utara,kabupaten,sulawesi tenggara,sulawesi
+7471,71. Kendari,kendari,kendari,kota,sulawesi tenggara,sulawesi
+7472,72. Bau-Bau,bau-bau,bau-bau,kota,sulawesi tenggara,sulawesi
+7501,01. Boalemo,boalemo,boalemo,kabupaten,gorontalo,sulawesi
+7502,02. Gorontalo,gorontalo,gorontalo,provinsi,gorontalo,sulawesi
+7503,03. Pohuwato,pohuwato,pohuwato,kabupaten,gorontalo,sulawesi
+7504,04. Bone Bolango,bone bolango,bone bolango,kabupaten,gorontalo,sulawesi
+7505,05. Gorontalo Utara,gorontalo utara,gorontalo utara,kabupaten,gorontalo,sulawesi
+7571,71. Gorontalo,gorontalo,gorontalo,kota,gorontalo,sulawesi
+7601,01. Majene,majene,majene,kabupaten,sulawesi barat,sulawesi
+7602,02. Polewali Mandar,polewali mandar,polewali mandar,kabupaten,sulawesi barat,sulawesi
+7603,03. Mamasa,mamasa,mamasa,kabupaten,sulawesi barat,sulawesi
+7604,04. Mamuju,mamuju,mamuju,kabupaten,sulawesi barat,sulawesi
+7605,05. Mamuju Utara,mamuju utara,mamuju utara,kabupaten,sulawesi barat,sulawesi
+8101,01. Maluku Tenggara Barat,maluku tenggara barat,maluku tenggara barat,kabupaten,maluku,maluku
+8102,02. Maluku Tenggara,maluku tenggara,maluku tenggara,kabupaten,maluku,maluku
+8103,03. Maluku Tengah,maluku tengah,maluku tengah,kabupaten,maluku,maluku
+8104,04. Buru,buru,buru,kabupaten,maluku,maluku
+8105,05. Kepulauan Aru,kepulauan aru,kepulauan aru,kabupaten,maluku,maluku
+8106,06. Seram Bagian Barat,seram bagian barat,seram bagian barat,kabupaten,maluku,maluku
+8107,07. Seram Bagian Timur,seram bagian timur,seram bagian timur,kabupaten,maluku,maluku
+8108,08. Maluku Barat Daya,maluku barat daya,maluku barat daya,kabupaten,maluku,maluku
+8109,09. Buru Selatan,buru selatan,buru selatan,kabupaten,maluku,maluku
+8171,71. Ambon,ambon,ambon,kota,maluku,maluku
+8172,72. Tual,tual,tual,kota,maluku,maluku
+8201,01. Halmahera Barat,halmahera barat,halmahera barat,kabupaten,maluku utara,maluku
+8202,02. Halmahera Tengah,halmahera tengah,halmahera tengah,kabupaten,maluku utara,maluku
+8203,03. Kepulauan Sula,kepulauan sula,kepulauan sula,kabupaten,maluku utara,maluku
+8204,04. Halmahera Selatan,halmahera selatan,halmahera selatan,kabupaten,maluku utara,maluku
+8205,05. Halmahera Utara,halmahera utara,halmahera utara,kabupaten,maluku utara,maluku
+8206,06. Halmahera Timur,halmahera timur,halmahera timur,kabupaten,maluku utara,maluku
+8207,07. Pulau Morotai,pulau morotai,pulau morotai,kabupaten,maluku utara,maluku
+8271,71. Ternate,ternate,ternate,kota,maluku utara,maluku
+8272,72. Tidore Kepulauan,tidore kepulauan,tidore kepulauan,kota,maluku utara,maluku
+9101,01. Fakfak,fakfak,fak fak,kabupaten,papua barat,papua
+9102,02. Kaimana,kaimana,kaimana,kabupaten,papua barat,papua
+9103,03. Teluk Wondama,teluk wondama,teluk wondama,kabupaten,papua barat,papua
+9104,04. Teluk Bintuni,teluk bintuni,teluk bintuni,kabupaten,papua barat,papua
+9105,05. Manokwari,manokwari,manokwari,kabupaten,papua barat,papua
+9106,06. Sorong Selatan,sorong selatan,sorong selatan,kabupaten,papua barat,papua
+9107,07. Sorong,sorong,sorong,kabupaten,papua barat,papua
+9108,08. Raja Ampat,raja ampat,raja ampat,kabupaten,papua barat,papua
+9109,09. Tambrauw,tambrauw,tambrauw,kabupaten,papua barat,papua
+9110,10. Maybrat,maybrat,maybrat,kabupaten,papua barat,papua
+9171,71. Sorong,sorong,sorong,kabupaten,papua barat,papua
+9401,01. Merauke,merauke,merauke,kabupaten,papua,papua
+9402,02. Jayawijaya,jayawijaya,jayawijaya,kabupaten,papua,papua
+9403,03. Jayapura,jayapura,jayapura,kabupaten,papua,papua
+9404,04. Nabire,nabire,nabire,kabupaten,papua,papua
+9408,08. Kepulauan Yapen,kepulauan yapen,kepulauan yapen,kabupaten,papua,papua
+9409,09. Biak Numfor,biak numfor,biak numfor,kabupaten,papua,papua
+9410,10. Paniai,paniai,paniai,kabupaten,papua,papua
+9411,11. Puncak Jaya,puncak jaya,puncak jaya,kabupaten,papua,papua
+9412,12. Mimika,mimika,mimika,kabupaten,papua,papua
+9413,13. Boven Digoel,boven digoel,boven digoel,kabupaten,papua,papua
+9414,14. Mappi,mappi,mappi,kabupaten,papua,papua
+9415,15. Asmat,asmat,asmat,kabupaten,papua,papua
+9416,16. Yahukimo,yahukimo,yahukimo,kabupaten,papua,papua
+9417,17. Pegunungan Bintang,pegunungan bintang,pegunungan bintang,kabupaten,papua,papua
+9418,18. Tolikara,tolikara,tolikara,kabupaten,papua,papua
+9419,19. Sarmi,sarmi,sarmi,kabupaten,papua,papua
+9420,20. Keerom,keerom,keerom,kabupaten,papua,papua
+9426,26. Waropen,waropen,waropen,kabupaten,papua,papua
+9427,27. Supiori,supiori,supiori,kabupaten,papua,papua
+9428,28. Mamberamo Raya,mamberamo raya,mamberamo raya,kabupaten,papua,papua
+9429,29. Nduga,nduga,nduga,kabupaten,papua,papua
+9430,30. Lanny Jaya,lanny jaya,lanny jaya,kabupaten,papua,papua
+9431,31. Mamberamo Tengah,mamberamo tengah,mamberamo tengah,kabupaten,papua,papua
+9432,32. Yalimo,yalimo,yalimo,kabupaten,papua,papua
+9433,33. Puncak,puncak,puncak,kabupaten,papua,papua
+9434,34. Dogiyai,dogiyai,dogiyai,kabupaten,papua,papua
+9435,35. Intan Jaya,intan jaya,intan jaya,kabupaten,papua,papua
+9436,36. Deiyai,deiyai,deiyai,kabupaten,papua,papua
+9471,71. Jayapura,jayapura,jayapura,kabupaten,papua,papua
