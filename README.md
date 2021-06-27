@@ -18,9 +18,13 @@ The current hypothesis is that the following variables might have an impact to i
 - *Region they reside in.* Different regions might have different level of minimum wage, which might have an impact of level of income.
 - *Age.* Age might infer level of experience. Hopefully, we would be able to see if there is indeed any age discrimination in the work force.
 - *Gender.* Hopefully, we would be able to see if there is indeed any sex discrimination in the work force, and any pay gap.
+- *Marital Status.* Whether they are married, single, or divorced.
+- *Moved.* Whether they have moved from their place of birth.
+- *Sector and Sector Group.* The Sector/Industry of their current occupation, or the Sector Group based on three-sector model.
+- *Urban.* whether they live in an urban area.
+- *District, Provinces, Island.* The location of their current place of residence.
 
-# Current Progress
-We are currently still in **Iteration 1** where each member do their own data preparation, exploration, exploratory data analysis, and data visualizations within jupyter notebook. By Sunday, 20 June 2021, we wil regroup and discuss / plan for **Iteration 2**, where we will finalize the analysis and work towards building a final report and dashboard
+# Phases
 
 ## Iteration 1: Data Preparation, Exploration, Visualization and Exploratory Data Analysis
 
@@ -34,10 +38,15 @@ To ease with data exploration, a data studio dashboard was created. The purpose 
 ## Iteration 2: Finalization of Analysis & Building Report and/or Dashboard
 In this stage, based on exploration done in iteration 1, we created a final data studio dashboard with findings. You can see the final dashboard here: https://datastudio.google.com/reporting/e3ad8275-58c4-4b77-bcae-3f76339bd43c 
 
+We were planning to also add consumption data as an addition for descriptive analysis, specifically, to show how different individuals with different income levels have differing consumption behavior. However, sadly, we did not have enough time for this.
+
 ## Iteration 3: Modeling
-In **Iteration 3**, we will attempt to do modeling. Our current plan, and based on feedback from the mentors.
+In this iteration, we attempted to do modeling, specifically OLS and Logistic Regression, however, we did not have enough time to finish this in time. We have uploaded the jupyter notebook in case it's needed. In the last attempt, we were able to get an accuracy of 75% of predicting whether someone would have a neet income higher than their district weighted average.
 
 # Current Blocker
+
+## NOT ENOUGH TIME
+We did not have enough time to do everything we plan to do :( If given more time we would love to finish what we set out to do.
 
 ## I DONT UNDERSTAND HOW TO USE GITHUB LOL
 I think I mistakenly created a new branch to start a pull request (???) I dont even know what this means and I cant delete it :(
