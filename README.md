@@ -32,14 +32,10 @@ The jupyter notebook has also been uploaded to main branch.
 To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. **This dashboard should not be treated as the final output.** Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
 
 ## Iteration 2: Finalization of Analysis & Building Report and/or Dashboard
-*Will be filled in once we reached this stage*
+In this stage, based on exploration done in iteration 1, we created a final data studio dashboard with findings. You can see the final dashboard here: https://datastudio.google.com/reporting/e3ad8275-58c4-4b77-bcae-3f76339bd43c 
 
 ## Iteration 3: Modeling
-In **Iteration 3**, we will attempt to do modeling. Our current plan, and based on feedback from the mentors, we will try the following:
-- Mincer Earning Function and Fixed Effect Model.
-- GLM: Hierarchical Linear Regression
-
-Literature review for our modeling approach can be seen here: https://www.notion.so/agitasesara/Agita-Iteration-3-Modeling-Attempt-e9b5d14193fd4281952beb1baf57a2fd
+In **Iteration 3**, we will attempt to do modeling. Our current plan, and based on feedback from the mentors.
 
 # Current Blocker
 
