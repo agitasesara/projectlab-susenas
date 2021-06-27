@@ -49,4 +49,5 @@ In this iteration, we attempted to do modeling, specifically OLS and Logistic Re
 We did not have enough time to do everything we plan to do :( If given more time we would love to finish what we set out to do.
 
 ## I DONT UNDERSTAND HOW TO USE GITHUB LOL
-I think I mistakenly created a new branch to start a pull request (???) I dont even know what this means and I cant delete it :(
+- I really don't understand how to make folders, I'm so sorry :(
+- I think I mistakenly created a new branch to start a pull request (???) I dont even know what this means and I cant delete it :(
