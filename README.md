@@ -41,7 +41,7 @@ In this stage, based on exploration done in iteration 1, we created a final data
 We were planning to also add consumption data as an addition for descriptive analysis, specifically, to show how different individuals with different income levels have differing consumption behavior. However, sadly, we did not have enough time for this.
 
 ## Iteration 3: Modeling
-In this iteration, we attempted to do modeling, specifically OLS and Logistic Regression, however, we did not have enough time to finish this in time. We have uploaded the jupyter notebook in case it's needed. In the last attempt, we were able to get an accuracy of 75% of predicting whether someone would have a neet income higher than their district weighted average.
+In this iteration, we attempted to do modeling, specifically OLS and Logistic Regression, however, we did not have enough time to finish this in time. We have uploaded the jupyter notebook in case it's needed. In the last attempt, we were able to get an accuracy of 75% of predicting whether someone would have a nett income higher than their district weighted average.
 
 # Current Blocker
 
