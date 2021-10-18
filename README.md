@@ -42,12 +42,3 @@ We were planning to also add consumption data as an addition for descriptive ana
 
 ## Iteration 3: Modeling
 In this iteration, we attempted to do modeling, specifically OLS and Logistic Regression, however, we did not have enough time to finish this in time. We have uploaded the jupyter notebook in case it's needed. In the last attempt, we were able to get an accuracy of 75% of predicting whether someone would have a nett income higher than their district weighted average.
-
-# Current Blocker
-
-## NOT ENOUGH TIME
-We did not have enough time to do everything we plan to do :( If given more time we would love to finish what we set out to do.
-
-## I DONT UNDERSTAND HOW TO USE GITHUB LOL
-- I really don't understand how to make folders, I'm so sorry :(
-- I think I mistakenly created a new branch to start a pull request (???) I dont even know what this means and I cant delete it :(
