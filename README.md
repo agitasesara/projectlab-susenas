@@ -1,44 +1,49 @@
 # Project Lab: Data Susenas
 # Team 3 Introduction
 Team 3 Members:
-1. Raphael Gunawan Silaen
+1. Molly Allmond
 2. Agita Sesara
-3. Fransiska Citra
+3. Salma Sulthanah
 
-# Project Management
-You can see the project progress update here: https://www.notion.so/agitasesara/Project-Lab-SUSENAS-71902232b7674f679ce3db66ba234006
+# Product Requirement Document as Proposal
+You can see the PRD/Proposal here: https://docs.google.com/document/d/1Agbl6tfB5-Z8e5bazsXJyFU7fveSI70XjG1AkO13-uo/edit?usp=sharing
+
 
 # Introduction
-In this analysis, we would like to identify what variables has an impact to income. As part of descriptive analysis, we can also drill down on how people from different level of income behave in terms of their spending and/or consumption.
+We cannot optimize what we do not measure. This means, to support the success of this newly-founded ecommerce, we have to ensure that decision makers have clear visibility of key metrics and dimensions in order to empower them to make strategic moves and develop clear action plans for different teams.
 
-## Hypothesis (Work In Progress)
-The current hypothesis is that the following variables might have an impact to income on an individual level.
+As they are a newly-founded ecommerce, they currently do not have this visibility. Hence, we propose to build a performance monitoring dashboard as a solution.
 
-- *Level of education.* As previously mentioned, higher level of education might increase the likelihood of people to get a higher income level.
-- *Region they reside in.* Different regions might have different level of minimum wage, which might have an impact of level of income.
-- *Age.* Age might infer level of experience. Hopefully, we would be able to see if there is indeed any age discrimination in the work force.
-- *Gender.* Hopefully, we would be able to see if there is indeed any sex discrimination in the work force, and any pay gap.
-- *Marital Status.* Whether they are married, single, or divorced.
-- *Moved.* Whether they have moved from their place of birth.
-- *Sector and Sector Group.* The Sector/Industry of their current occupation, or the Sector Group based on three-sector model.
-- *Urban.* whether they live in an urban area.
-- *District, Provinces, Island.* The location of their current place of residence.
+# Objective
+The objective of this solution is to provide stakeholders, in this case decision makers in the newly-founded ecommerce, with a monitoring dashboard regarding three (3) different aspects:
+Sales performance for C-level and operations team
+Marketing Performance for marketing team
+A/B Test Results for Business Development team
 
-# Phases
+With this monitoring dashboard, each stakeholder can have a top-level view of the business health from different aspects, and make quick decisions or changes in strategy based on the insights if required to ensure fulfillment of the company’s goals.
 
-## Iteration 1: Data Preparation, Exploration, Visualization and Exploratory Data Analysis
+# Stakeholder Persona
+The stakeholders of this product are:
+- C-level or management
+- Operations team
+- Marketing Team
+- Business Development team
 
-### Agita's Attempt
-My attempt of Iteration 1 is thoroughly explained here: https://www.notion.so/agitasesara/Agita-Iteration-1-Description-and-Results-529dbcb68bef4963b652bdfc2d814737.
-The jupyter notebook has also been uploaded to main branch.
+Each stakeholders have different needs and different key metrics and dimensions they will need to evaluate. There will be a homepage where general metrics will be shown, and different sections on different pages with specific requirements from each stakeholder.
 
-#### Exploration Dashboard
-To ease with data exploration, a data studio dashboard was created. The purpose of this exploration dashboard is just to understand the data better, and make decision of the direction of our analysis. **This dashboard should not be treated as the final output.** Link to dashboard: https://datastudio.google.com/reporting/8b201dc3-0f4c-490c-88b9-5f7fecea02ae
+# Solutions Mapping
+There are three (3) aspects that will need to be covered by this performance monitoring dashboard, which will be detailed below.
 
-## Iteration 2: Finalization of Analysis & Building Report and/or Dashboard
-In this stage, based on exploration done in iteration 1, we created a final data studio dashboard with findings. You can see the final dashboard here: https://datastudio.google.com/reporting/e3ad8275-58c4-4b77-bcae-3f76339bd43c 
+## Sales Performance
+Sales dashboard is created to identify total sales or order sales by adding features that directly impact to measure enhancement sales or order sales. To understand how the growth of sales, the dashboard can be optimized by creating a feature that can show the review of customers toward the product. It is hoped that products that get bad reviews can be easily detected and handled effectively as soon as possible.
 
-We were planning to also add consumption data as an addition for descriptive analysis, specifically, to show how different individuals with different income levels have differing consumption behavior. However, sadly, we did not have enough time for this.
+## Marketing Performance
+The marketing team is monitoring customers' activity on the website to assess the impact of website campaigns to customer purchases. There are five different campaigns displayed on the website. The available dataset is used to determine which marketing campaign is the most successful, what products have the highest selling level, and investigate customer profiles and purchasing behavior on different website campaigns. The most effective campaigns from the experiment can be adopted for future implementation.
 
-## Iteration 3: Modeling
-In this iteration, we attempted to do modeling, specifically OLS and Logistic Regression, however, we did not have enough time to finish this in time. We have uploaded the jupyter notebook in case it's needed. In the last attempt, we were able to get an accuracy of 75% of predicting whether someone would have a nett income higher than their district weighted average.
+## A/B Test Result
+The business development team is doing an A/B test experiment on the company website to test the effectiveness of the new landing page. Based on the experiment result, we need to determine whether the new landing page that was tested should be adopted or not by performing a hypothesis testing. Should the result of the hypothesis testing suggest that the new landing page showed a statistically significant performance compared to the control group, the new landing page will be implemented.
+
+Hypothesis testing will be done using the frequentist method.
+
+
+
